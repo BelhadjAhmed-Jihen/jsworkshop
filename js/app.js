@@ -4,4 +4,7 @@ $(document).ready(function(){
     setTimeout(function(){
         output.innerHTML=":)";
     },5000)
+    setTimeout(function(){
+        output.innerHTML=":(";
+    },5000)
 });
